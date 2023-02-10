@@ -82,4 +82,8 @@ svg{
     .portada{
         height: 430px;
     }
+
+    svg{
+        display: none;
+    }
 }
